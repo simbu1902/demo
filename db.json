@@ -1,14 +1,17 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "fullname": "melanie",
+        "isocode": "100023",
+        "oulocalid": 40,
+        "outype": "ISO",
+        "emailbackup": "melanie@.com"
+    },
+    {
+        "fullname": "Christin Marks",
+        "isocode": "100029",
+        "oulocalid": 49,
+        "outype": "ISO",
+        "emailbackup": "gftcontact2@.com"
+    },
+ 
+]
